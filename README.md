@@ -1,19 +1,15 @@
-# Homepage
+# HOMEPAGE
 
-# Biography
+# PERSONAL STATEMENT
 
-- Born in Sichuan in 2000
+# EDUCATION
 
-- Studying in Beijing
+**MA in Electronic Science and Technology**, Beijing Institute of Technology, Beijing, 2022~now
 
-- Computer Vision: Biological Imaging
+**BA in Computer Science and Technology**, Beijing Institute of Technology, Beijing, 2018~2022
 
-# Education
+# PUBLICATIONS
 
-Beijing Institute of Technology, 2022~now
+Dissertation, unpublished
 
-Beijing Institute of Technology, 2018~2022
 
-# Publications
-
-None
