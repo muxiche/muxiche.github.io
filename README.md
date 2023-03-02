@@ -6,11 +6,13 @@
 
 - Studying in Beijing
 
+- Computer Vision: Biological Imaging
+
 # Education
 
-Beijing Institute of Technology, Beijing, China, 2022~now
+Beijing Institute of Technology, 2022~now
 
-Beijing Institute of Technology, Beijing, China, 2018~2022
+Beijing Institute of Technology, 2018~2022
 
 # Publications
 
