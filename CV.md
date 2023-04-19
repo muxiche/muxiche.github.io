@@ -1,19 +1,10 @@
-<div>
-  <div style="float: left;margin-right: 10px;">
-    <img src="./assets/head.png" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
-  </div>
-</div>
-<div style="float: right;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
-  <div style="width: 45%;font-weight: 500;margin: 5px;">Xiche Mu 木夕车</div>
-  <div style="width: 45%;font-weight: 500;margin: 5px;">23 years old</div>
-  <div style="width: 45%;font-weight: 500;margin: 5px;">Male</div>
-  <div style="width: 45%;font-weight: 500;margin: 5px;">Heterosexual</div>
-  <div style="width: 45%;font-weight: 500;margin: 5px;">Postgraduate, Beijing, China</div>
-  <div style="width: 45%;font-weight: 500;margin: 5px;">muxiche@foxmail.com</div>
-</div>
+<img src="./assets/head.png" style="zoom:25%; float: center"  >
 
+<center><p>Xiche Mu 木夕车</p></center>
 
+<center><p>Postgraduate, Beijing, China</p></center>
 
+<center><p>muxiche@foxmail.com</p></center>
 
 # Personal Statement
 
