@@ -1,4 +1,3 @@
-# Muxiche' Blog
 Welcome to my homepage!
 
 [test01](test01.md)
