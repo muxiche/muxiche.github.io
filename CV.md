@@ -1,4 +1,4 @@
-<img src="/Users/muxiche/Code/muxiche.github.io/assets/head.png" alt="head" style="zoom: 33%; float: left" />	Xiche Mu 木夕车 
+<img src="./assets/head.png" alt="head" style="zoom: 33%; float: left" />	Xiche Mu 木夕车 
 
 ​	Postgraduate, Beijing, China 
 
