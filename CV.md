@@ -1,10 +1,10 @@
-<img src="./assets/head.png" alt="head" style="zoom: 27%; float: left" />	Xiche Mu 木夕车 
+<img src="./assets/head.png" alt="head" style="zoom: 25%;" />
 
-​	Postgraduate, Beijing, China 
+​																Xiche Mu 木夕车 
 
-​	muxiche@foxmail.com 
+​														Postgraduate, Beijing, China 
 
-# <u>Personal Statement</u>
+​															muxiche@foxmail.com 
 
 I am a postgraduate student at Beijing Institute of Technology(BIT).
 
