@@ -1,2 +1,4 @@
 # muxiche.github.io
-my homepage
+Welcome to my homepage!
+
+[test](test.md)
