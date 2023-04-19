@@ -1,12 +1,16 @@
-<img src="./assets/head.png" alt="head" style="zoom: 33%; float: left" />		Xiche Mu 木夕车 
+<img src="./assets/head.png" alt="head" style="zoom: 33%; float: left" />	Xiche Mu 木夕车 
 
-​		Postgraduate, Beijing, China 
+​	Postgraduate, Beijing, China 
 
-​		muxiche@foxmail.com 
+​	muxiche@foxmail.com 
+
+
+
+
 
 I am a postgraduate student at Beijing Institute of Technology(BIT).
 
-My research areas include computer vision(😎) and java(😂). 
+My research areas include computer vision(😎) and java(🕶👌😭). 
 
 # <u>Education</u>
 
