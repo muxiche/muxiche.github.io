@@ -15,10 +15,11 @@
 
 
 
-<div>
-  I am a postgraduate student at Beijing Institute of Technology(BIT).
+# Personal Statement
+
+I am a postgraduate student at Beijing Institute of Technology(BIT).
+
 My research areas include computer vision(😎) and java(🕶👌😭). 
-</div>
 
 # Education
 
