@@ -1,16 +1,12 @@
 <img src="./assets/head.png" style="zoom:25%; float: center"  >
 
-<center><p>Xiche Mu 木夕车</p></center>
-
-<center><p>Postgraduate, Beijing, China</p></center>
-
-<center><p>muxiche@foxmail.com</p></center>
-
 # Personal Statement
 
 I am a postgraduate student at Beijing Institute of Technology(BIT).
 
 My research areas include computer vision(😎) and java(🕶👌😭). 
+
+You can contact me by emial: muxiche@foxmail.com.
 
 # Education
 
@@ -42,7 +38,7 @@ XXX4 Activity, 2077
 
 XXX5 Activity, 2077
 
-# <u>Awards and Honors</u>
+# Awards and Honors
 
 XXX1 Award, 2077
 
