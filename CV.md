@@ -6,7 +6,7 @@ I am a postgraduate student at Beijing Institute of Technology(BIT).
 
 My research areas include computer vision(😎) and java(🕶👌😭). 
 
-You can contact me by emial: muxiche@foxmail.com.
+You can contact me by email. My email address is muxiche@foxmail.com.
 
 # Education
 
