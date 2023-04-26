@@ -1,5 +1,7 @@
 Welcome to my homepage!
 
+> 人生如逆旅，我亦是行人。
+
 # Academic CV
 
 [CV](CV.md)
