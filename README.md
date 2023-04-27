@@ -1,10 +1,12 @@
-Welcome to my homepage!
-
 > 人生如逆旅，我亦是行人。
 
 # Academic CV
 
 [CV](CV.md)
+
+# Personal Open-source Projects
+
+[githubpages]([muxiche/muxiche.github.io: my homepage](https://github.com/muxiche/muxiche.github.io))
 
 # Blogs
 
