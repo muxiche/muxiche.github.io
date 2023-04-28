@@ -6,15 +6,15 @@
 
 # Personal Open-source Projects
 
-## Githubpages
+## 1. [Githubpages](https://github.com/muxiche/muxiche.github.io)
 
-https://github.com/muxiche/muxiche.github.io
+my homepage on github
 
-## Takeout
+## 2. Takeout
 
-Created from itheima.
+created from itheima
 
-## Hackintosh EFI
+## 3. Hackintosh EFI
 
 None
 
