@@ -20,3 +20,11 @@ git reset --hard HEAD~3
 # 常见问题
 
 1. 致命错误：'https://github.com/muxiche/muxiche.github.io.git/' 鉴权失败：需要develop setting里面生成的token
+
+# 我本人用的最多的命令
+
+```shell
+git push
+git pull
+```
+
