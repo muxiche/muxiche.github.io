@@ -1,9 +1,6 @@
-
-   unset msg
-
-   read -p "请输入commit提交的描述: " msg
-
-   git add -A
-   git commit -m $msg
-   git push
-   git status
+now=$(date "+%Y-%m-%d")
+echo "Change Directory to D:/Code"
+cd D:/Code
+echo "Starting add-commit-pull-push..."
+git add -A && git commit -m "$now" && git pull && git push
+echo "Finish!"
