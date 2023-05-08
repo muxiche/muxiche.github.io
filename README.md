@@ -1,5 +1,7 @@
 > 人生如逆旅，我亦是行人。
 
+[TOC]
+
 # Academic CV
 
 [CV](CV.md)
@@ -44,7 +46,7 @@ None
 
 [【Windows10桌面美化】拒绝没有磁贴的Windows11](./blogs/【Windows10桌面美化】拒绝没有磁贴的Windows11.md)
 
-
+[【垃圾主机】第一次装机](./blogs/【垃圾主机】第一次装机.md)
 
 ## English
 
